@@ -1,0 +1,4 @@
+E:\уёба\курсач\учебное\Debug\учебное.vcxproj.CopyComplete
+E:\уёба\курсач\учебное\Debug\учебное.exe
+E:\уёба\курсач\учебное\Debug\учебное.pdb
+E:\уёба\курсач\учебное\Debug\freeglutd.dll
